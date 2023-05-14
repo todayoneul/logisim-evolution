@@ -56,6 +56,760 @@
     <a name="circuit" val="main"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="simulationFrequency" val="1.0"/>
+    <comp lib="1" loc="(1360,1460)" name="NOT Gate">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(1650,610)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1650,640)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1650,670)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1650,740)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1650,770)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1650,800)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1650,880)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1650,910)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1650,940)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1680,610)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1680,640)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1680,670)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1680,740)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1680,770)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1680,800)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1680,880)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1680,910)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1680,940)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1710,610)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1710,640)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1710,670)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1710,740)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1710,770)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1710,800)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1710,880)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1710,910)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1710,940)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1720,1180)" name="Button">
+      <a name="facing" val="south"/>
+      <a name="label" val="n7"/>
+    </comp>
+    <comp lib="5" loc="(1720,1260)" name="Button">
+      <a name="facing" val="south"/>
+      <a name="label" val="n4"/>
+    </comp>
+    <comp lib="5" loc="(1720,1350)" name="Button">
+      <a name="facing" val="south"/>
+      <a name="label" val="n1"/>
+    </comp>
+    <comp lib="5" loc="(1740,1600)" name="Button">
+      <a name="facing" val="south"/>
+      <a name="label" val="restart"/>
+    </comp>
+    <comp lib="5" loc="(1790,610)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1790,640)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1790,670)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1790,740)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1790,770)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1790,800)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1790,880)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1790,910)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1790,940)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1800,1180)" name="Button">
+      <a name="facing" val="south"/>
+      <a name="label" val="n8"/>
+    </comp>
+    <comp lib="5" loc="(1800,1260)" name="Button">
+      <a name="facing" val="south"/>
+      <a name="label" val="n5"/>
+    </comp>
+    <comp lib="5" loc="(1800,1350)" name="Button">
+      <a name="facing" val="south"/>
+      <a name="label" val="n2"/>
+    </comp>
+    <comp lib="5" loc="(1820,610)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1820,640)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1820,670)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1820,740)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1820,770)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1820,800)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1820,880)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1820,910)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1820,940)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1850,610)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1850,640)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1850,670)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1850,740)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1850,770)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1850,800)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1850,880)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1850,910)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1850,940)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1880,1180)" name="Button">
+      <a name="facing" val="south"/>
+      <a name="label" val="n9"/>
+    </comp>
+    <comp lib="5" loc="(1880,1260)" name="Button">
+      <a name="facing" val="south"/>
+      <a name="label" val="n6"/>
+    </comp>
+    <comp lib="5" loc="(1880,1350)" name="Button">
+      <a name="facing" val="south"/>
+      <a name="label" val="n3"/>
+    </comp>
+    <comp lib="5" loc="(1930,610)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1930,640)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1930,670)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1930,740)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1930,770)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1930,800)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1930,880)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1930,910)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1930,940)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1960,610)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1960,640)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1960,670)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1960,740)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1960,770)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1960,800)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1960,880)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1960,910)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1960,940)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1990,610)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1990,640)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1990,670)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1990,740)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1990,770)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1990,800)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1990,880)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1990,910)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(1990,940)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="3"/>
+      <a name="matrixrows" val="3"/>
+    </comp>
+    <comp lib="5" loc="(2080,1110)" name="LED"/>
+    <comp lib="5" loc="(2080,1130)" name="LED"/>
+    <comp lib="5" loc="(2080,1150)" name="LED"/>
+    <comp lib="5" loc="(2080,1170)" name="LED"/>
+    <comp lib="5" loc="(2080,1190)" name="LED"/>
+    <comp lib="5" loc="(2080,1210)" name="LED"/>
+    <comp lib="5" loc="(2080,1230)" name="LED"/>
+    <comp lib="5" loc="(2080,1250)" name="LED"/>
+    <comp lib="5" loc="(2080,1320)" name="LED"/>
+    <comp lib="5" loc="(2080,1340)" name="LED"/>
+    <comp lib="5" loc="(2080,1360)" name="LED"/>
+    <comp lib="5" loc="(2080,1380)" name="LED"/>
+    <comp lib="5" loc="(2080,1400)" name="LED"/>
+    <comp lib="5" loc="(2080,1420)" name="LED"/>
+    <comp lib="5" loc="(2080,1440)" name="LED"/>
+    <comp lib="5" loc="(2080,1460)" name="LED"/>
+    <comp lib="5" loc="(2100,1180)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2100,1390)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2110,1100)" name="LED">
+      <a name="facing" val="north"/>
+    </comp>
+    <comp lib="5" loc="(2110,1310)" name="LED">
+      <a name="facing" val="north"/>
+    </comp>
+    <comp lib="5" loc="(2120,1180)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2120,1390)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2130,1100)" name="LED">
+      <a name="facing" val="north"/>
+    </comp>
+    <comp lib="5" loc="(2130,1310)" name="LED">
+      <a name="facing" val="north"/>
+    </comp>
+    <comp lib="5" loc="(2150,1160)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2150,1370)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2160,1120)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2160,1140)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2160,1140)" name="RGBLED"/>
+    <comp lib="5" loc="(2160,1330)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2160,1350)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2170,1130)" name="LED"/>
+    <comp lib="5" loc="(2170,1340)" name="LED"/>
+    <comp lib="5" loc="(2170,1410)" name="LED"/>
+    <comp lib="5" loc="(2180,1120)" name="LED"/>
+    <comp lib="5" loc="(2180,1240)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2180,1330)" name="LED"/>
+    <comp lib="5" loc="(2180,1400)" name="LED"/>
+    <comp lib="5" loc="(2180,1430)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2190,1110)" name="LED"/>
+    <comp lib="5" loc="(2190,1320)" name="LED"/>
+    <comp lib="5" loc="(2200,1100)" name="LED"/>
+    <comp lib="5" loc="(2200,1240)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2200,1430)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2210,1390)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2220,1240)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2220,1310)" name="LED">
+      <a name="facing" val="north"/>
+    </comp>
+    <comp lib="5" loc="(2220,1380)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2220,1430)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2230,1110)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2230,1130)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2230,1150)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2230,1170)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2230,1190)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2230,1210)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2230,1370)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2240,1240)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2240,1330)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2240,1360)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2240,1430)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2250,1340)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2250,1350)" name="LED">
+      <a name="facing" val="east"/>
+    </comp>
+    <comp lib="5" loc="(2260,1240)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp lib="5" loc="(2260,1430)" name="LED">
+      <a name="facing" val="south"/>
+    </comp>
+    <comp loc="(1200,160)" name="win_calc"/>
+    <comp loc="(530,690)" name="Inputmemory"/>
+    <comp loc="(840,160)" name="win_calc"/>
+    <wire from="(130,1380)" to="(1840,1380)"/>
+    <wire from="(130,710)" to="(130,1380)"/>
+    <wire from="(130,710)" to="(310,710)"/>
+    <wire from="(1360,1400)" to="(1360,1430)"/>
+    <wire from="(1360,1400)" to="(1380,1400)"/>
+    <wire from="(1360,1460)" to="(1360,1670)"/>
+    <wire from="(1360,1670)" to="(2010,1670)"/>
+    <wire from="(1380,1400)" to="(1380,1650)"/>
+    <wire from="(1380,1650)" to="(1990,1650)"/>
+    <wire from="(140,1370)" to="(1760,1370)"/>
+    <wire from="(140,730)" to="(140,1370)"/>
+    <wire from="(140,730)" to="(310,730)"/>
+    <wire from="(150,1360)" to="(1680,1360)"/>
+    <wire from="(150,750)" to="(150,1360)"/>
+    <wire from="(150,750)" to="(310,750)"/>
+    <wire from="(1560,1290)" to="(1560,1620)"/>
+    <wire from="(1560,1620)" to="(1740,1620)"/>
+    <wire from="(1580,1300)" to="(1580,1470)"/>
+    <wire from="(1580,1470)" to="(1720,1470)"/>
+    <wire from="(1590,1310)" to="(1590,1430)"/>
+    <wire from="(1590,1430)" to="(1800,1430)"/>
+    <wire from="(160,1350)" to="(1630,1350)"/>
+    <wire from="(160,770)" to="(160,1350)"/>
+    <wire from="(160,770)" to="(310,770)"/>
+    <wire from="(1600,1320)" to="(1600,1410)"/>
+    <wire from="(1600,1410)" to="(1880,1410)"/>
+    <wire from="(1610,1290)" to="(1610,1330)"/>
+    <wire from="(1610,1290)" to="(1720,1290)"/>
+    <wire from="(1620,1300)" to="(1620,1340)"/>
+    <wire from="(1620,1300)" to="(1800,1300)"/>
+    <wire from="(1630,1310)" to="(1630,1350)"/>
+    <wire from="(1630,1310)" to="(1880,1310)"/>
+    <wire from="(1680,1180)" to="(1680,1360)"/>
+    <wire from="(1680,1180)" to="(1720,1180)"/>
+    <wire from="(170,1340)" to="(1620,1340)"/>
+    <wire from="(170,790)" to="(170,1340)"/>
+    <wire from="(170,790)" to="(310,790)"/>
+    <wire from="(1720,1260)" to="(1720,1290)"/>
+    <wire from="(1720,1350)" to="(1720,1470)"/>
+    <wire from="(1740,1600)" to="(1740,1620)"/>
+    <wire from="(1760,1180)" to="(1760,1370)"/>
+    <wire from="(1760,1180)" to="(1800,1180)"/>
+    <wire from="(180,1330)" to="(1610,1330)"/>
+    <wire from="(180,810)" to="(180,1330)"/>
+    <wire from="(180,810)" to="(310,810)"/>
+    <wire from="(1800,1260)" to="(1800,1300)"/>
+    <wire from="(1800,1350)" to="(1800,1430)"/>
+    <wire from="(1840,1180)" to="(1840,1380)"/>
+    <wire from="(1840,1180)" to="(1880,1180)"/>
+    <wire from="(1880,1260)" to="(1880,1310)"/>
+    <wire from="(1880,1350)" to="(1880,1410)"/>
+    <wire from="(190,1320)" to="(1600,1320)"/>
+    <wire from="(190,830)" to="(190,1320)"/>
+    <wire from="(190,830)" to="(310,830)"/>
+    <wire from="(1990,1260)" to="(1990,1650)"/>
+    <wire from="(1990,1260)" to="(2080,1260)"/>
+    <wire from="(200,1310)" to="(1590,1310)"/>
+    <wire from="(200,850)" to="(200,1310)"/>
+    <wire from="(200,850)" to="(310,850)"/>
+    <wire from="(2010,1450)" to="(2010,1670)"/>
+    <wire from="(2010,1450)" to="(2080,1450)"/>
+    <wire from="(2080,1100)" to="(2080,1110)"/>
+    <wire from="(2080,1100)" to="(2110,1100)"/>
+    <wire from="(2080,1110)" to="(2080,1130)"/>
+    <wire from="(2080,1130)" to="(2080,1150)"/>
+    <wire from="(2080,1150)" to="(2080,1170)"/>
+    <wire from="(2080,1170)" to="(2080,1190)"/>
+    <wire from="(2080,1190)" to="(2080,1210)"/>
+    <wire from="(2080,1210)" to="(2080,1230)"/>
+    <wire from="(2080,1230)" to="(2080,1250)"/>
+    <wire from="(2080,1250)" to="(2080,1260)"/>
+    <wire from="(2080,1260)" to="(2220,1260)"/>
+    <wire from="(2080,1310)" to="(2080,1320)"/>
+    <wire from="(2080,1310)" to="(2110,1310)"/>
+    <wire from="(2080,1320)" to="(2080,1340)"/>
+    <wire from="(2080,1340)" to="(2080,1360)"/>
+    <wire from="(2080,1360)" to="(2080,1380)"/>
+    <wire from="(2080,1380)" to="(2080,1400)"/>
+    <wire from="(2080,1400)" to="(2080,1420)"/>
+    <wire from="(2080,1420)" to="(2080,1440)"/>
+    <wire from="(2080,1440)" to="(2080,1450)"/>
+    <wire from="(2080,1450)" to="(2080,1460)"/>
+    <wire from="(2080,1450)" to="(2340,1450)"/>
+    <wire from="(210,1300)" to="(1580,1300)"/>
+    <wire from="(210,870)" to="(210,1300)"/>
+    <wire from="(210,870)" to="(310,870)"/>
+    <wire from="(2100,1180)" to="(2120,1180)"/>
+    <wire from="(2100,1390)" to="(2120,1390)"/>
+    <wire from="(2110,1100)" to="(2130,1100)"/>
+    <wire from="(2110,1310)" to="(2130,1310)"/>
+    <wire from="(2120,1180)" to="(2150,1180)"/>
+    <wire from="(2120,1370)" to="(2120,1390)"/>
+    <wire from="(2120,1370)" to="(2150,1370)"/>
+    <wire from="(2130,1100)" to="(2160,1100)"/>
+    <wire from="(2130,1310)" to="(2130,1330)"/>
+    <wire from="(2130,1330)" to="(2160,1330)"/>
+    <wire from="(2150,1160)" to="(2150,1180)"/>
+    <wire from="(2150,1160)" to="(2160,1160)"/>
+    <wire from="(2150,1350)" to="(2150,1370)"/>
+    <wire from="(2150,1350)" to="(2160,1350)"/>
+    <wire from="(2160,1100)" to="(2160,1120)"/>
+    <wire from="(2160,1120)" to="(2160,1140)"/>
+    <wire from="(2160,1120)" to="(2170,1120)"/>
+    <wire from="(2160,1140)" to="(2160,1160)"/>
+    <wire from="(2160,1330)" to="(2160,1340)"/>
+    <wire from="(2160,1340)" to="(2160,1350)"/>
+    <wire from="(2160,1340)" to="(2170,1340)"/>
+    <wire from="(2170,1120)" to="(2170,1130)"/>
+    <wire from="(2170,1120)" to="(2180,1120)"/>
+    <wire from="(2170,1340)" to="(2180,1340)"/>
+    <wire from="(2170,1410)" to="(2180,1410)"/>
+    <wire from="(2180,1110)" to="(2180,1120)"/>
+    <wire from="(2180,1110)" to="(2190,1110)"/>
+    <wire from="(2180,1240)" to="(2200,1240)"/>
+    <wire from="(2180,1330)" to="(2180,1340)"/>
+    <wire from="(2180,1330)" to="(2190,1330)"/>
+    <wire from="(2180,1400)" to="(2180,1410)"/>
+    <wire from="(2180,1400)" to="(2210,1400)"/>
+    <wire from="(2180,1410)" to="(2180,1430)"/>
+    <wire from="(2180,1430)" to="(2200,1430)"/>
+    <wire from="(2190,1100)" to="(2190,1110)"/>
+    <wire from="(2190,1100)" to="(2200,1100)"/>
+    <wire from="(2190,1320)" to="(2190,1330)"/>
+    <wire from="(2190,1320)" to="(2220,1320)"/>
+    <wire from="(220,1290)" to="(1560,1290)"/>
+    <wire from="(220,890)" to="(220,1290)"/>
+    <wire from="(220,890)" to="(310,890)"/>
+    <wire from="(2200,1090)" to="(2200,1100)"/>
+    <wire from="(2200,1090)" to="(2230,1090)"/>
+    <wire from="(2200,1100)" to="(2210,1100)"/>
+    <wire from="(2200,1240)" to="(2220,1240)"/>
+    <wire from="(2200,1430)" to="(2220,1430)"/>
+    <wire from="(2210,1380)" to="(2210,1390)"/>
+    <wire from="(2210,1380)" to="(2220,1380)"/>
+    <wire from="(2210,1390)" to="(2210,1400)"/>
+    <wire from="(2220,1240)" to="(2220,1260)"/>
+    <wire from="(2220,1240)" to="(2240,1240)"/>
+    <wire from="(2220,1260)" to="(2320,1260)"/>
+    <wire from="(2220,1310)" to="(2220,1320)"/>
+    <wire from="(2220,1320)" to="(2240,1320)"/>
+    <wire from="(2220,1370)" to="(2220,1380)"/>
+    <wire from="(2220,1370)" to="(2230,1370)"/>
+    <wire from="(2220,1430)" to="(2240,1430)"/>
+    <wire from="(2230,1090)" to="(2230,1110)"/>
+    <wire from="(2230,1110)" to="(2230,1130)"/>
+    <wire from="(2230,1130)" to="(2230,1150)"/>
+    <wire from="(2230,1150)" to="(2230,1170)"/>
+    <wire from="(2230,1170)" to="(2230,1190)"/>
+    <wire from="(2230,1190)" to="(2230,1210)"/>
+    <wire from="(2230,1360)" to="(2230,1370)"/>
+    <wire from="(2230,1360)" to="(2240,1360)"/>
+    <wire from="(2240,1240)" to="(2260,1240)"/>
+    <wire from="(2240,1320)" to="(2240,1330)"/>
+    <wire from="(2240,1330)" to="(2240,1340)"/>
+    <wire from="(2240,1340)" to="(2250,1340)"/>
+    <wire from="(2240,1350)" to="(2240,1360)"/>
+    <wire from="(2240,1350)" to="(2250,1350)"/>
+    <wire from="(2240,1430)" to="(2260,1430)"/>
+    <wire from="(2250,1340)" to="(2250,1350)"/>
+    <wire from="(2250,1350)" to="(2250,1360)"/>
+    <wire from="(2260,1430)" to="(2270,1430)"/>
+    <wire from="(530,1050)" to="(530,1400)"/>
+    <wire from="(530,1400)" to="(1360,1400)"/>
   </circuit>
   <circuit name="D_latch">
     <a name="appearance" val="logisim_evolution"/>
@@ -330,109 +1084,109 @@
     <comp lib="0" loc="(2130,140)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="A7"/>
+      <a name="label" val="p1_7"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2130,180)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="A6"/>
+      <a name="label" val="p1_6"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2130,220)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="A5"/>
+      <a name="label" val="p1_5"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2130,270)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="A4"/>
+      <a name="label" val="p1_4"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2130,320)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="A3"/>
+      <a name="label" val="p1_3"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2130,370)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="A2"/>
+      <a name="label" val="p1_2"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2130,420)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="A1"/>
+      <a name="label" val="p1_1"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2130,50)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="A9"/>
+      <a name="label" val="p1_9"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2130,90)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="A8"/>
+      <a name="label" val="p1_8"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2140,1030)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="B2"/>
+      <a name="label" val="p2_2"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2140,1070)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="B1"/>
+      <a name="label" val="p2_1"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2140,720)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="B9"/>
+      <a name="label" val="p2_9"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2140,770)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="B8"/>
+      <a name="label" val="p2_8"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2140,810)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="B7"/>
+      <a name="label" val="p2_7"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2140,860)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="B6"/>
+      <a name="label" val="p2_6"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2140,900)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="B5"/>
+      <a name="label" val="p2_5"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2140,950)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="B4"/>
+      <a name="label" val="p2_4"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2140,990)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="B3"/>
+      <a name="label" val="p2_3"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(2440,1710)" name="Pin">
