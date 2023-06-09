@@ -4,6 +4,12 @@ digital - logic (2023 project) - Time-limited Tic-Tac-Toe
 시간제한이 있는 Tic-Tac-Toe 시뮬레이터입니다.
 
 # Poster
+![image](https://github.com/todayoneul/logisim-evolution/assets/104894811/cc30466b-862f-404e-8c9e-0750bef8f976)
+
+프로젝트의 컨셉과 참고 회로는 poster를 참고하세요.
+
+
+
 [Time-limited Tic-Tac-Toe - 22100757 이규한.pdf](https://github.com/todayoneul/logisim-evolution/files/11704122/Time-limited.Tic-Tac-Toe.-.22100757.pdf)
 
 # How to play
